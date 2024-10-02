@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improve my ReactJS skills<br>🤝 I’m looking for help with Redux<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about frontend development
+🔭 I’m currently working on improve my ReactJS skills<br>🌱 I’m currently learning NextJS<br>💬 Ask me about frontend development
 
 
 ## 🌐 Socials:
